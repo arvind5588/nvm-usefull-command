@@ -3,8 +3,11 @@
 # Install Node
 
 > nvm install <node_version>      // Install a specific Node version
+> 
 > nvm install node                // Install latest Node release (Current)
+> 
 > nvm install --lts               // Install latest LTS release of NodeJS
+>
 > nvm install-latest-npm          // Install latest NPM release only
 
 
